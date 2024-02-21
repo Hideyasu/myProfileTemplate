@@ -24,38 +24,38 @@ function App() {
         <div class="contents">
           <h3 class="section-title">お菓子作りの動画</h3>
           <div class="contents-item">
-            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/html.svg" />
+            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/html.svg" alt="img" />
             <p>チーズケーキ</p>
           </div>
           <div class="contents-item">
-            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/php.svg" />
+            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/php.svg" alt="img" />
             <p>ショートケーキ</p>
           </div>
           <div class="contents-item">
-            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/ruby.svg" />
+            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/ruby.svg" alt="img" />
             <p>Ruby</p>
           </div>
           <div class="contents-item">
-            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/swift.svg" />
+            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/swift.svg" alt="img" />
             <p>Swift</p>
           </div>
         </div>
         <div class="contents">
           <h3 class="section-title">好きなこと</h3>
           <div class="contents-item">
-            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/html.svg" />
+            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/html.svg" alt="img" />
             <p>お菓子作りの動画</p>
           </div>
           <div class="contents-item">
-            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/php.svg" />
+            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/php.svg" alt="img" />
             <p>PHP</p>
           </div>
           <div class="contents-item">
-            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/ruby.svg" />
+            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/ruby.svg" alt="img" />
             <p>Ruby</p>
           </div>
           <div class="contents-item">
-            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/swift.svg" />
+            <img src="https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/html/study/swift.svg" alt="img" />
             <p>Swift</p>
           </div>
         </div>
